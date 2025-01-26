@@ -14,8 +14,9 @@ namespace CorsSample.Controllers
         {
             this.courseService = courseService;
         }
-        [HttpGet]
-        public IActionResult GetCourse()
+        [HttpGet("~/")]
+        [HttpGet("GetCourses")]
+        public IActionResult GetCourses()
         {
             return Ok(courseService.GetCourses());
         }
