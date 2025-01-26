@@ -5,8 +5,6 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorsSample", "CorsSample.csproj", "{DFDA0583-8919-4BD9-9C9C-6C7353EECC5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeCourseApi", "..\ConsumeCourseApi\ConsumeCourseApi.csproj", "{CFAB89A3-AEBE-4A56-AEC0-E1969DC97C8F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{DFDA0583-8919-4BD9-9C9C-6C7353EECC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFDA0583-8919-4BD9-9C9C-6C7353EECC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFDA0583-8919-4BD9-9C9C-6C7353EECC5F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CFAB89A3-AEBE-4A56-AEC0-E1969DC97C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CFAB89A3-AEBE-4A56-AEC0-E1969DC97C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CFAB89A3-AEBE-4A56-AEC0-E1969DC97C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CFAB89A3-AEBE-4A56-AEC0-E1969DC97C8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
